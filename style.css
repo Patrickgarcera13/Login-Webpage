@@ -1,5 +1,4 @@
 body{
-  /*background-color: rgb(186, 63, 248);*/
   background-image: url(bg1.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -24,7 +23,7 @@ div{
   text-align: center;
   max-width: 600px;
   margin-top: 150px;
-  margin-left: 650px;
+  margin-left: 580px;
   margin-bottom: 150px;
   background-color: #53897C;
   padding-left: 20px;
@@ -71,18 +70,18 @@ a .sign{
   border: 1px solid black;
   padding: 10px;
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .btn{
   width: 43%;
   height: 30%;
-  background: #fff;
+  background-color: #4CAF50;
   border: none;
   outline: none;
   border-radius: 40px;
   box-shadow: 0 0 10px rgba(0,0,0,.1);
   cursor: pointer;
   font-size: 16px;
-  color: #333;
   font-weight: 600;
 }
